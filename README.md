@@ -1,1 +1,1 @@
-lerning express js and typescript.
+learning express js and typescript.
